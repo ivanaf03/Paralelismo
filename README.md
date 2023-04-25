@@ -1,0 +1,2 @@
+# Paralelismo
+Teoría de Paralelismo
